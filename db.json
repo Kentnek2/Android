@@ -2,7 +2,7 @@
 	"films": [{
 			"id": 1,
 			"title": "Igor",
-			"imageUrl": "https://upload.wikimedia.org/wikipedia/ru/a/a6/Обложка_фильма_квартирка_Джо.jpg",
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/ru/a/a6/",
 			"date": "22.02.1020",
 			"genres": ["drama", "comydy"]
 		},
@@ -16,7 +16,7 @@
 		{
 			"id": 3,
 			"title": "Igosssssssr",
-			"imageUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/2c/Обложка_фильма_Матч-пойнт.jpg/334px-Обложка_фильма_Матч-пойнт.jpg",
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/2c/",
 			"date": "",
 			"genres": ["drama", "comydy"]
 		}
@@ -24,7 +24,7 @@
 	"film": [{
 			"id": 1,
 			"title": "Igor",
-			"imageUrl": "https://upload.wikimedia.org/wikipedia/ru/a/a6/Обложка_фильма_квартирка_Джо.jpg",
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/ru/a/a6/",
 			"date": "22.02.1020",
 			"genres": ["drama", "comydy"],
 			"description": "very loooooosssssssssssooooooooong"
@@ -40,7 +40,7 @@
 		{
 			"id": 3,
 			"title": "Igosssssssr",
-			"imageUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/2c/Обложка_фильма_Матч-пойнт.jpg/334px-Обложка_фильма_Матч-пойнт.jpg",
+			"imageUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/2c/",
 			"date": "asdasd",
 			"genres": ["drama", "comydy"],
 			"description": "very long"
